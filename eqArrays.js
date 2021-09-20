@@ -23,3 +23,5 @@ const eqArrays = function(actual, expected) {
     return true;
   }
 };
+
+module.exports = eqArrays;

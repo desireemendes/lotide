@@ -51,3 +51,4 @@ const middle = function(array) {
   return returnArray;
 };
 
+module.exports = middle;
